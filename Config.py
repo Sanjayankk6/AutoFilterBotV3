@@ -5,10 +5,10 @@ from os import environ
 id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
-SESSION = environ.get('SESSION', 'LuciferMoringstar_Robot')
+SESSION = environ.get('SESSION', 'Sj_moviebot')
 API_ID = int(environ['API_ID'])
 API_HASH = environ['API_HASH']
-BOT_TOKEN = environ['BOT_TOKEN']
+BOT_TOKEN = environ['2046316956:AAEBXitUNA9CGLzTtxaAg_c3qdll9tULEso']
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -30,7 +30,7 @@ AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 TUTORIAL = "https://youtu.be/5hnYOKBzyi8"
 # MongoDB information
 DATABASE_URI = environ['DATABASE_2']
-DATABASE_NAME = environ['BOT_NAME']
+DATABASE_NAME = environ['SJMOVIE']
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
