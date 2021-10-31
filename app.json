@@ -1,5 +1,5 @@
 {
-    "name": "MANAVALAN FILTER BOTV3",
+    "name": "Auto Filter Bot V3",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
     "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": [coming soon ]
-    "our telegram": "https://t.me/joinchat/AAAAAEnTwQiS8yOTMPkWaw",
+    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
