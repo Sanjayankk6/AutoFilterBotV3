@@ -28,10 +28,10 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  MANAVALAN BOTV3 
+➥ Name :   AutoFilterBotV4
     
 ➥ Creator : [SJ AND MANAVALAN](
-https://t.me/joinchat/AAAAAEnTwQiS8yOTMPkWaw)
+https://t.me/joinchat/AAAAAEnTwQiS8yOTMPkWaw)[oru telegram movie group]
 
 ➥ Language : Python3
 
